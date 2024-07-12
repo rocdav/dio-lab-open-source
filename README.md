@@ -62,8 +62,8 @@ Para isso, você pode inserir: badges indicando suas habilidades; cards com suas
 ### Sobre Mim
 - **Nome**: Davi Machado da Rocha
 - **Formação**: 
-  - História pela UNESp em Franca
-  - Mestrado em História da Escravidão no Brasil pela UNESp (FAPESP)
+  - História pela UNESP em Franca
+  - Mestrado em História da Escravidão no Brasil pela UNESP (FAPESP)
   - Banco de Dados pela FIAP
 - **Atualmente**: Aluno especial no ICMC da USP São Carlos, com disciplinas concluídas em:
   - Introdução à Web Semântica
@@ -77,11 +77,20 @@ Para isso, você pode inserir: badges indicando suas habilidades; cards com suas
 
 ### Projetos Atuais
 - [HistLearn no Hugging Face](https://huggingface.co/histlearn): Projetos de tecnologia rodando no Hugging Face Spaces.
+- [Mapa de locais citados no conjunto da obra de Machado de Assis](https://glistening-creponne-55fbb0.netlify.app/)
+- [Mapa de calor com a frequência de locais citados no conjunto da obra](https://sprightly-heliotrope-a6037e.netlify.app/)
+- [Mapa de citações por obra](https://lively-lolly-e332aa.netlify.app/)
+- [Mapa de calor de citações por obra](https://frolicking-blancmange-bdfba9.netlify.app/)
 
 ### Minhas Habilidades
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-[![AI](https://img.shields.io/badge/Inteligência%20Artificial-000?style=for-the-badge&logo=ai&logoColor=red)](https://www.example.com/)
+[![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=blue)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=green)](https://www.mongodb.com/)
+[![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PowerBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=powerbi&logoColor=yellow)](https://powerbi.microsoft.com/)
+[![Oracle](https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle&logoColor=red)](https://www.oracle.com/database/)
 
 ### Minhas Estatísticas no GitHub
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-machado&show_icons=true&theme=radical)
